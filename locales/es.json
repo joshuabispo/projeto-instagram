@@ -1,0 +1,28 @@
+{
+  "labelEmail": "Teléfono, usuario o correo electrónico",
+  "labelSenha": "Contraseña",
+  "toggleSenha": "Mostrar",
+  "btnEntrar": "Iniciar sesión",
+  "ou": "O",
+  "facebook": "Iniciar sesión con Facebook",
+  "esqueceu": "¿Olvidaste tu contraseña?",
+  "cadastro": "¿No tienes una cuenta?",
+  "cadastreSe": " Regístrate",
+  "idioma": "Español",
+
+  "meta": "Meta",
+  "sobre": "Acerca de",
+  "blog": "Blog",
+  "carreiras": "Carreras",
+  "ajuda": "Ayuda",
+  "api": "API",
+  "privacidade": "Privacidad",
+  "termos": "Términos",
+  "localizacoes": "Ubicaciones",
+  "lite": "Instagram Lite",
+  "ai": "Meta AI",
+  "artigos": "Artículos de Meta AI",
+  "threads": "Threads",
+  "upload": "Carga de contactos y no usuarios",
+  "verified": "Meta Verified"
+}
