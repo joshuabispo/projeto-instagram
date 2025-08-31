@@ -576,11 +576,6 @@ nav ul h3 span.pressed {
         height: auto;
     }
 
-    .img-phone {
-        display: none;
-        /* opcional: esconde imagem em telas muito pequenas */
-    }
-
     .footer {
         margin-top: auto;
         /* força o footer ir para o final da página */
